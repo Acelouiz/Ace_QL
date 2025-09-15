@@ -7,11 +7,10 @@ I build dashboards, analyze datasets, and extract insights to help businesses gr
 ---
 
 ## 🚀 Skills
-- Excel: Dashboards, Pivot Tables, Data Cleaning  
-- R: Statistical Analysis, Data Visualization (ggplot2)  
-- Python: Pandas, Matplotlib, Seaborn, Plotly  
-- SQL: Querying, Joins, Data Extraction
-
+- 📊 **Excel**: Dashboards, Pivot Tables, Data Cleaning  
+- 📈 **R**: Statistical Analysis, Data Visualization (ggplot2)  
+- 🐍 **Python**: Pandas, Matplotlib, Seaborn, Plotly  
+- 🗄️ **SQL**: Querying, Joins, Data Extraction  
  ----
  
 Data is the new oil, and I love refining it into insights.
